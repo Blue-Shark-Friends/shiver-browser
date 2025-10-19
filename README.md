@@ -1,6 +1,4 @@
-![Firefox Browser](./docs/readme/readme-banner.svg)
-
-[Firefox](https://firefox.com/) is a fast, reliable and private web browser from the non-profit [Mozilla organization](https://mozilla.org/).
+This is a fork of Firefox. For more information about Firefox, see below. The Shiver Browser is a work in progress.
 
 ### Contributing
 
